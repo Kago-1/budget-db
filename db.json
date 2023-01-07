@@ -1,0 +1,34 @@
+{
+    "expenses": [
+         {
+      "id": 1,
+      "item": "Fees bal",
+      "category": "Education",
+      "cost": "9200"
+    },
+    {
+      "id": 2,
+      "item": "DTB Savings Acc",
+      "category": "Savings",
+      "cost": "7000"
+    },
+    {
+      "id": 3,
+      "item": "Bale of unga",
+      "category": "Food",
+      "cost": "1050"
+    },
+    {
+      "id": 4,
+      "item": "Netflix",
+      "category": "Entertainment",
+      "cost": "1500"
+    },
+    {
+      "id": 5,
+      "item": "Airforce",
+      "category": "Shoes",
+      "cost": "300"
+    }
+    ]
+}
